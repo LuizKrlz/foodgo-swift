@@ -11,7 +11,7 @@ import SwiftUI
 struct foodgoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
